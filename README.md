@@ -1,3 +1,10 @@
+# This project is regarding understanding API and data flow 
+
+# Image searching project
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
