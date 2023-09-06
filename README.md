@@ -1,6 +1,7 @@
 # This project is regarding understanding API and data flow 
 
-# Image searching project
+1. Image searching project
+2. Flow of data between parent and child using state and props methods
 
 
 
