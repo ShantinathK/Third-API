@@ -1,0 +1,19 @@
+.imageAlign{
+    padding: 20px;
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    float: left;
+    gap: 10px;
+    justify-content: space-between;
+    align-content: center;
+    place-content: center;
+    
+}
+
+#display{
+    padding: 2px;
+    width: 200px;
+    height: 200px;
+    /* height: auto; */
+}
