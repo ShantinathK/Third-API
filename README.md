@@ -1,3 +1,15 @@
+# This project is regarding understanding API and data flow 
+
+1. Image searching project
+2. Flow of data between parent and child using state and props methods
+3. what is API
+4. how to fetch data from API
+5. what is file-saver
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
