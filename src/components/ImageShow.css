@@ -1,3 +1,4 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"); */
 .imageAlign{
     padding: 20px;
     display: flex;
@@ -13,7 +14,26 @@
 
 #display{
     padding: 2px;
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
     /* height: auto; */
+}
+.imageAlign:hover{
+    transform: scale(1.1);
+}
+#download{
+    padding-left: 5px;
+    padding-right: 5px;
+    border: 1px black solid;
+    border-radius: 5px;
+    background-color: rgb(223, 223, 233);
+    color: white;
+    position: absolute;
+    bottom: 30px;
+    right: 30px;
+
+
+}
+#download:hover{
+    transform: scale(1.1);
 }

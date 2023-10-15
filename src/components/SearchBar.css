@@ -1,12 +1,33 @@
 .search-Bar{
-    margin: 50px;
-    /* border: 1px solid lightgrey;
-    border-radius: 5px;
-    padding: 10px; */
-    /* display: flex;
-    flex-direction: column; */
-    align-items: center;
-    place-content: center;
-    gap: 10px;
+    margin: 20px;
+    
 }
+
+#content{
+    display: grid;
+    place-items: center;
+    align-content: center;
+    height: 500px;
+    /* background-image: url('../Images/bg.jpg'); */
+    background-image: url('../Images/Featured-VR-AR-Technologies.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    filter: contrast(100px);
+    filter: saturate(30px);
+    background-position-y: 30%;
+
+}
+
+
+
+.label{
+    font: 3em sans-serif;
+    font-weight: bolder;
+    color: #fafafa;
+    opacity: 1;  
+}
+
+
+
+
 
